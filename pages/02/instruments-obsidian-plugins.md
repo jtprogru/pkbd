@@ -1,6 +1,5 @@
 ---
 layout: image-right
-image: /obsidian.webp
 ---
 
 # Инструменты
