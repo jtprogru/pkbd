@@ -165,6 +165,18 @@ src: ./pages/03/how-and-why-zettel.md
 hide: false
 ---
 
+---
+transition: slide-left
+src: ./pages/03/how-and-why-para.md
+hide: false
+---
+
+---
+transition: slide-left
+src: ./pages/03/how-and-why-trueway.md
+hide: false
+---
+
 <!--
 how-and-why-intro.md
 -->
