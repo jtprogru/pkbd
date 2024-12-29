@@ -43,26 +43,8 @@ src: ./pages/00/whoami.md
 
 ---
 transition: slide-left
-layout: image-right
-image: /png-transparent-science-knowledge-interview-theory-learning-science-course-area-mock-interview.png
+src: ./pages/00/about.md
 ---
-
-# Про что поговорим?
-
-- Что это такое и зачем оно надо?
-- Какие инструменты бывают?
-- Как ее вести и почему будет больно?
-- Читать с карандашом?
-- Почему ее стоит начать вести сейчас?
-- Залипнем?!
-- Итоги?
-- Вопросики?
-
-<!--
-- Озвучивание плана
-
-Добрый день! Сегодня мы поговорим о персональной базе знаний. Зачем она нужна? В современном мире мы сталкиваемся с огромным потоком информации: лекции, книги, статьи, новости, проекты. Запомнить и структурировать все это становится все сложнее. Персональная база знаний – это инструмент, который помогает навести порядок в этом хаосе. Она позволяет сохранять важную информацию, возвращаться к ней позже и, самое главное, использовать знания для решения задач.
--->
 
 ---
 transition: slide-left
@@ -158,3 +140,31 @@ transition: slide-left
 src: ./pages/02/instruments-obsidian.md
 hide: false
 ---
+
+---
+transition: slide-left
+src: ./pages/02/instruments-obsidian-other.md
+hide: false
+---
+
+---
+transition: slide-left
+src: ./pages/02/instruments-obsidian-plugins.md
+hide: false
+---
+
+---
+transition: slide-left
+src: ./pages/03/how-and-why-intro.md
+hide: false
+---
+
+---
+transition: slide-left
+src: ./pages/03/how-and-why-zettel.md
+hide: false
+---
+
+<!--
+how-and-why-intro.md
+-->
