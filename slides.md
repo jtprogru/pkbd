@@ -177,6 +177,27 @@ src: ./pages/03/how-and-why-trueway.md
 hide: false
 ---
 
-<!--
-how-and-why-intro.md
--->
+---
+transition: slide-left
+src: ./pages/04/demo.md
+hide: false
+---
+
+---
+transition: slide-left
+src: ./pages/04/why-now-intro.md
+hide: false
+---
+
+---
+transition: slide-left
+src: ./pages/05/summary.md
+hide: false
+---
+
+---
+transition: slide-left
+src: ./pages/05/happyend.md
+hide: false
+---
+
