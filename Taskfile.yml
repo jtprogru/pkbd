@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=https://taskfile.dev/schema.json
+---
+version: "3"
+
+set:
+  - pipefail
+
+silent: false
+
+tasks:
+  default:
+    silent: true
+    cmds:
+      - task --list-all --color
+
+  prec:
+    desc: Run all preconditions
+    deps:
+      - clean
+    preconditions:
+      - test -f $(which npm)
+    cmds:
+      - npm i
+
+  export:
+    desc: Build PDF from markdown
+    deps:
+      - prec
+    cmds:
+      - npm run export
+
+  build:
+    desc: Build
+    deps:
+      - prec
+    cmds:
+      - npm run build
+
+  dev:
+    desc: Run development
+    deps:
+      - prec
+    cmds:
+      - npm run dev
+
+  clean:
+    desc: Clean all artifacts
+    cmds:
+      - rm -rf node_modules/
