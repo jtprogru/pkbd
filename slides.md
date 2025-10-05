@@ -29,7 +29,7 @@ mdc: true
 </br>
 </br>
 
-#### [Мишка на сервере](https://t.me/+3-r4TuXV_A0xNzgy) | [Михаил Савин](https://savinmi.ru) | 2024
+#### [Мишка на сервере](https://t.me/+3-r4TuXV_A0xNzgy) | [Михаил Савин](https://savinmi.ru) | 2025
 
 <!--
 Титульный слайд…
