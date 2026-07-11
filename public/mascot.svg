@@ -1,0 +1,24 @@
+<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Маскот «Мишка на сервере»">
+  <!-- ПЛЕЙСХОЛДЕР маскота: медведь у терминала (BRANDING §1/§5). Замени своей иллюстрацией. -->
+  <!-- уши -->
+  <circle cx="78" cy="58" r="22" fill="#c2410c"/>
+  <circle cx="162" cy="58" r="22" fill="#c2410c"/>
+  <circle cx="78" cy="58" r="11" fill="#fb923c"/>
+  <circle cx="162" cy="58" r="11" fill="#fb923c"/>
+  <!-- голова -->
+  <circle cx="120" cy="104" r="62" fill="#fb923c"/>
+  <!-- морда -->
+  <ellipse cx="120" cy="124" rx="34" ry="26" fill="#fdba74"/>
+  <!-- глаза -->
+  <circle cx="98" cy="96" r="6" fill="#1f2428"/>
+  <circle cx="142" cy="96" r="6" fill="#1f2428"/>
+  <!-- нос -->
+  <ellipse cx="120" cy="116" rx="9" ry="6.5" fill="#1f2428"/>
+  <path d="M120 122 v10" stroke="#1f2428" stroke-width="3" stroke-linecap="round"/>
+  <!-- терминал -->
+  <rect x="46" y="176" width="148" height="52" rx="8" fill="#252b30" stroke="#333b41" stroke-width="2"/>
+  <circle cx="60" cy="188" r="3" fill="#ef4444"/>
+  <circle cx="72" cy="188" r="3" fill="#f59e0b"/>
+  <circle cx="84" cy="188" r="3" fill="#22c55e"/>
+  <text x="60" y="216" font-family="'JetBrains Mono', monospace" font-size="16" fill="#fdba74">&gt;_ up</text>
+</svg>
