@@ -1,9 +1,12 @@
 ---
-# You can also start simply with 'default'
-theme: dracula
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
-background: /9452e900-ab01-11ea-914c-5766391a4e34.jpeg
+# «Мишка на сервере» — тёплая инженерная тема для Slidev
+theme: bear
+# аккуратно фиксируем янтарный акцент темы (дефолт темы)
+themeConfig:
+  primary: '#fb923c'
+# титульный слайд темы с маскотом
+layout: cover
+mascot: true
 # some information about your slides (markdown enabled)
 title: Личная база знаний
 info: |
@@ -11,8 +14,6 @@ info: |
   Презентация для студентов [РТУ МИРЭА](https://www.mirea.ru)
 
   Сделано с помощью [Sli.dev](https://sli.dev)
-# apply unocss classes to the current slide
-class: text-center
 # https://sli.dev/features/drawing
 drawings:
   persist: false
@@ -45,6 +46,14 @@ src: ./pages/00/whoami.md
 transition: slide-left
 src: ./pages/00/about.md
 ---
+
+---
+layout: section
+mascot: true
+transition: slide-left
+---
+
+# Что это такое и зачем оно надо?
 
 ---
 transition: slide-left
@@ -117,6 +126,14 @@ transition: slide-left
 -->
 
 ---
+layout: section
+mascot: true
+transition: slide-left
+---
+
+# Какие инструменты бывают?
+
+---
 transition: slide-left
 src: ./pages/02/instruments-intro.md
 hide: true
@@ -154,6 +171,14 @@ hide: false
 ---
 
 ---
+layout: section
+mascot: true
+transition: slide-left
+---
+
+# Как её вести и почему будет больно?
+
+---
 transition: slide-left
 src: ./pages/03/how-and-why-intro.md
 hide: false
@@ -184,6 +209,14 @@ hide: false
 ---
 
 ---
+layout: section
+mascot: true
+transition: slide-left
+---
+
+# Почему её стоит начать вести сейчас?
+
+---
 transition: slide-left
 src: ./pages/04/why-now-intro.md
 hide: false
@@ -200,4 +233,12 @@ transition: slide-left
 src: ./pages/05/happyend.md
 hide: false
 ---
+
+---
+layout: questions
+mascot: true
+transition: slide-left
+---
+
+# Вопросики?
 

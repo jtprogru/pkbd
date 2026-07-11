@@ -1,0 +1,14 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Мишка на сервере">
+  <!-- ПЛЕЙСХОЛДЕР знака (mark). Замени своим упрощённым медведем (BRANDING §1). -->
+  <mask id="bear-mark-holes">
+    <rect width="64" height="64" fill="white"/>
+    <circle cx="25" cy="31" r="3" fill="black"/>
+    <circle cx="39" cy="31" r="3" fill="black"/>
+    <circle cx="32" cy="40" r="4.5" fill="black"/>
+  </mask>
+  <g fill="#fb923c" mask="url(#bear-mark-holes)">
+    <circle cx="17" cy="17" r="9"/>
+    <circle cx="47" cy="17" r="9"/>
+    <circle cx="32" cy="35" r="20"/>
+  </g>
+</svg>
