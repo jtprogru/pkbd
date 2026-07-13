@@ -3,7 +3,7 @@
 
 - **Влияние** / **Импакт** — измеримое улучшение (~~ухудшение~~) чего-либо в окружающем мире
 
-![data-information-knowledge-insight-wisdom-impact.png](/data-information-knowledge-insight-wisdom-impact.png)
+![data-information-knowledge-insight-wisdom-impact.png](../../public/data-information-knowledge-insight-wisdom-impact.png)
 
 Немного полезного вот тут → <https://jtprog.ru/pkb-check-list/>
 

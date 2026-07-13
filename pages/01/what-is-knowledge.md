@@ -3,7 +3,7 @@
 
 - **Знания** — это совокупность информации и методов применения этой информации на практике
 
-![data-information-knowledge-insight-wisdom-impact.png](/data-information-knowledge-insight-wisdom-impact.png)
+![data-information-knowledge-insight-wisdom-impact.png](../../public/data-information-knowledge-insight-wisdom-impact.png)
 
 Немного полезного вот тут → <https://jtprog.ru/pkb-check-list/>
 
