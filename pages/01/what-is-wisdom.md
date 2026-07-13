@@ -3,7 +3,7 @@
 
 - **Мудрость** — совокупность знаний и опыта, плюс умение применять это знание в зависимости от конкретной ситуации
 
-![data-information-knowledge-insight-wisdom-impact.png](/data-information-knowledge-insight-wisdom-impact.png)
+![data-information-knowledge-insight-wisdom-impact.png](../../public/data-information-knowledge-insight-wisdom-impact.png)
 
 Немного полезного вот тут → <https://jtprog.ru/pkb-check-list/>
 

@@ -3,7 +3,7 @@
 
 - **Информация** — это осмысленные и/или обработанные данные
 
-![data-information-knowledge-insight-wisdom-impact.png](/data-information-knowledge-insight-wisdom-impact.png)
+![data-information-knowledge-insight-wisdom-impact.png](../../public/data-information-knowledge-insight-wisdom-impact.png)
 
 Немного полезного вот тут → <https://jtprog.ru/pkb-check-list/>
 
