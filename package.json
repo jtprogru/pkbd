@@ -14,5 +14,8 @@
     },
     "devDependencies": {
         "playwright-chromium": "^1.49.1"
+    },
+    "overrides": {
+        "dompurify": "^3.4.12"
     }
 }
