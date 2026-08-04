@@ -8,14 +8,15 @@
         "export": "slidev export"
     },
     "dependencies": {
-        "@slidev/cli": "^52.18.0",
+        "@slidev/cli": "^52.19.0",
         "slidev-theme-bear": "github:jtprogru/slidev-theme-bear",
-        "vue": "^3.5.13"
+        "vue": "^3.5.40"
     },
     "devDependencies": {
-        "playwright-chromium": "^1.49.1"
+        "playwright-chromium": "^1.62.1"
     },
     "overrides": {
-        "dompurify": "^3.4.12"
+        "dompurify": "^3.4.13",
+        "@hono/node-server": "^2.1.0"
     }
 }
