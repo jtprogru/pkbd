@@ -3,13 +3,17 @@
     "type": "module",
     "private": true,
     "scripts": {
+        "sync-theme-assets": "node scripts/sync-theme-assets.mjs",
+        "prebuild": "npm run sync-theme-assets",
         "build": "slidev build",
+        "predev": "npm run sync-theme-assets",
         "dev": "slidev --open --remote",
+        "preexport": "npm run sync-theme-assets",
         "export": "slidev export"
     },
     "dependencies": {
         "@slidev/cli": "^52.19.0",
-        "slidev-theme-bear": "github:jtprogru/slidev-theme-bear",
+        "slidev-theme-bear": "github:jtprogru/slidev-theme-bear#v0.2.0",
         "vue": "^3.5.41"
     },
     "devDependencies": {
