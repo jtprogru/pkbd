@@ -14,7 +14,7 @@
     "dependencies": {
         "@slidev/cli": "^52.19.1",
         "slidev-theme-bear": "github:jtprogru/slidev-theme-bear#v0.2.0",
-        "vue": "^3.5.41"
+        "vue": "^3.5.42"
     },
     "devDependencies": {
         "playwright-chromium": "^1.62.1"
