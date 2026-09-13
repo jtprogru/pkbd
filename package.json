@@ -17,7 +17,7 @@
         "vue": "^3.5.42"
     },
     "devDependencies": {
-        "playwright-chromium": "^1.62.1"
+        "playwright-chromium": "^1.63.0"
     },
     "overrides": {
         "dompurify": "^3.4.13",
