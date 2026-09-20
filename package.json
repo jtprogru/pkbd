@@ -12,12 +12,12 @@
         "export": "slidev export"
     },
     "dependencies": {
-        "@slidev/cli": "^52.19.1",
+        "@slidev/cli": "^53.0.0",
         "slidev-theme-bear": "github:jtprogru/slidev-theme-bear#v0.2.0",
-        "vue": "^3.5.42"
+        "vue": "^3.5.43"
     },
     "devDependencies": {
-        "playwright-chromium": "^1.62.1"
+        "playwright-chromium": "^1.63.0"
     },
     "overrides": {
         "dompurify": "^3.4.13",
