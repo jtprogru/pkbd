@@ -6,6 +6,10 @@ updates:
     schedule:
       interval: weekly
     open-pull-requests-limit: 5
+    # Тему обновляем руками сразу после релиза. Dependabot держит свежие
+    # git-теги на cooldown и в это время предлагает откат на старый тег.
+    ignore:
+      - dependency-name: slidev-theme-bear
     groups:
       npm-dependencies:
         patterns:
